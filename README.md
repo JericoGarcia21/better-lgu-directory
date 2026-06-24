@@ -46,12 +46,14 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Teresa, Rizal | — | — | — | 🔵 Planned | [@MewSeiren](https://github.com/MewSeiren) |
 | Atimonan, Quezon | — | [GitHub](https://github.com/EmsiPrds/betteratimonan)  | — | 🔵 Planned | [@EmsiPrds](https://github.com/EmsiPrds) |
 | Dinalupihan, Bataan | - | - | - | 🔵 Planned | [@dardeejay](https://github.com/dardeejay) |
-| Calamba, Laguna | — | — | — | 🔵 Planned | [@apajuan](https://github.com/apajuan) |
-| Cabanatuan City, Nueva Ecija | [bettercabanatuan.org](https://bettercabanatuan.org) | [GitHub](https://github.com/BetterCabanatuan/bettercabanatuan) | [Facebook](https://www.facebook.com/bettercabanatuan.org) | 🟡 Work in Progress | [@joshuagemvicente](https://github.com/joshuagemvicente), [@iampoll](https://github.com/iampoll) |
+| Calamba, Laguna | — | [GitHub](https://github.com/apajuan/bettercalamba) | — | 🟡 Work in Progress | [@apajuan](https://github.com/apajuan) |
+| Cabanatuan City, Nueva Ecija | [bettercabanatuan.org](https://bettercabanatuan.org) | [GitHub](https://github.com/BetterCabanatuan/bettercabanatuan) | [Facebook](https://www.facebook.com/bettercabanatuan.org) | 🟢 Active | [@joshuagemvicente](https://github.com/joshuagemvicente), [@iampoll](https://github.com/iampoll) |
 | Angeles City, Pampanga | — | [GitHub](https://github.com/ongods/betterangeles) | — | 🔵 Planned | [@ongods](https://github.com/ongods) |
 | Cebu City, Cebu | — | [GitHub](https://github.com/kyrenmearr/bettercebucity) | — | 🟡 Work in Progress | [@kyrenmearr](https://github.com/kyrenmearr) |
 | Piat, Cagayan Valley | — | — | — | 🔵 Planned | [@JoScripty](https://github.com/JoScripty) |
 | Alaminos City, Pangasinan | — | — | — | 🔵 Planned | [@ljsalcedo-dev](https://github.com/ljsalcedo-dev) |
+| Santo Tomas, Pangasinan | — | — | — | 🔵 Planned | [@PatrickTomas2](https://github.com/PatrickTomas2) |
+| Legazpi, Albay | — | — | — | 🔵 Planned | [@bpbelen](https://github.com/bpbelen) |
 | Santa Barbara, Pangasinan | — | [GitHub](https://github.com/JericoGarcia21/better-santabarbara) | — | 🟡 Work in Progress | [@JericoGarcia21](https://github.com/JericoGarcia21) |
 
 <!-- SYNC_LGU_TABLE_END -->
